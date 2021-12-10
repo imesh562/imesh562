@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imesh Gunathilake.
 - 👀 I’m interested in Mobile Development and Web Development.
-- 🌱 I’m currently learning a Higher National Diploma IN Technology.
+- 🌱 I’m currently learning a Higher National Diploma In Information Technology.
 - 📫 You can reach me by imesh562@gmail.com.
 
 <!---
